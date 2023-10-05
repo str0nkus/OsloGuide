@@ -5,10 +5,12 @@
   - [Things to See](#things-to-see)
   - [Things to Do](#things-to-do)
   - [Places to Eat](#places-to-eat)
+    - [Koie Ramen](#koie-ramen)
   - [Places to Drink Beer](#places-to-drink-beer)
   - [Activities](#activities)
   - [Hikes](#hikes)
   - [Hidden Pearls](#hidden-pearls)
+  - [Various Stuff](#various-stuff)
 
 ## Introduction
 The goal of this article is to give you some insight in how you can explore Oslo to the best of your contents.
@@ -20,7 +22,10 @@ Here are some stuff you might take som intrest in:
 
 ## Things to Do
 ## Places to Eat
+### Koie Ramen
+
 ## Places to Drink Beer
 ## Activities
 ## Hikes
 ## Hidden Pearls
+## Various Stuff
