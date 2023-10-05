@@ -78,19 +78,19 @@ Trym's Rating: :star: :star: :star: :star: \
 ##### Røverkollen
 About 2-4 hour round trip, great view and a nice brisk uphill walk. \
 Class: Easy - Medium :walking: \
-Recommended Start place: Ammerud T-bane (You can follow the river almost all the way up) \
+Start place: Ammerud T-bane (You can follow the river almost all the way up) \
 You can find more info [here](https://ut.no/turforslag/119726041/rundtur-rverkollen)
 
 ##### Øyungen
 About 1-2 hour round trip, beautiful both during summer and winter, mostly uphill (Walking & Ski) \
 Class: Easy :walking: \
-Recommended Start Place: Skar (Bus 51 through Maridalen - go off on the last stop) \
+Start Place: Skar (Bus 51 through Maridalen - go off on the last stop) \
 You can find more info [here](https://ut.no/turforslag/115367/med-ungene-til-yungen)
 
 ##### Elvelangs
 About 2 hour walk, awesome walk straight through Oslo, I recommend starting at the top, walking down towards centrum \
 Class: Easy :walking: \
-Recommended Starting Place: Kjelsås/Frysja (Take the bus (34) or the tram (11 | 12) to Kjelsås)
+Starting Place: Kjelsås/Frysja (Take the bus (34) or the tram (11 | 12) to Kjelsås)
 You can find more info [here](https://ut.no/turforslag/1112156861/elvelangs-akerselva-fra-gullhaug-bru-til-friluftshuset)
 
 ### Hidden Pearls
