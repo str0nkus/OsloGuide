@@ -50,13 +50,13 @@ Trym's Rating: :star: :star: :star: :star: :star: \
 
 #### Kebabs
 ##### Shawarma House
-If you go here, order the chicken shawarma, it's one of the best kebabs in Oslo, straigh up fire. No website, but they have [this](https://gronlandstorg.no/butikk/shawarma/) \
+If you go here, order the chicken shawarma, it's one of the best kebabs in Oslo, straigh up fire. [Enjoy](https://gronlandstorg.no/butikk/shawarma/) \
 Trym's Rating: :star: :star: :star: :star: :star: \
 [Shawarma House Google Maps](https://maps.app.goo.gl/gNDEFobwxCSy4JXq8)
 
 ##### Casa Bella
 Ever had cheese in your kebabs, neither did I, great to visit after a long night of drænks. No website or menu available online, soz \
-Trym's Rating: :star: :star: :star: :star:
+Trym's Rating: :star: :star: :star: :star: \
 [Casa Bella Google Maps](https://maps.app.goo.gl/4ZdndKvohR4QBnTm9)
 
 ### Places to Drink Beer
