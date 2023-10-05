@@ -25,6 +25,7 @@
     - [Øyungen](#øyungen)
     - [Elvelangs](#elvelangs)
   - [Hidden Pearls](#hidden-pearls)
+    - [Bygdøt Sjøbad](#bygdøy-sjøbad)
   - [Various Stuff](#various-stuff)
 
 ## Introduction
@@ -94,5 +95,10 @@ Starting Place: Kjelsås/Frysja (Take the bus (34) or the tram (11 | 12) to Kjel
 You can find more info [here](https://ut.no/turforslag/1112156861/elvelangs-akerselva-fra-gullhaug-bru-til-friluftshuset)
 
 ## Hidden Pearls
+##### Bygdøy Sjøbad
+Easily one of the best places to go for a swim during summer. :swimmer: \
+Public Transport: Take the 30-bus to Kongsgården. \
+[Bygdøy Sjøbad Google Maps](https://maps.app.goo.gl/7PGijUeMRsxQMhmTA)
+
 
 ## Various Stuff
