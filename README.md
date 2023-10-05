@@ -75,7 +75,7 @@ Trym's Rating: :star: :star: :star: :star: \
 
 #### Seasonal
 ##### Oktoberfest
-Drink Beer, dance on the tables to tune of OMPA \ 
+Drink Beer, dance on the tables to tune of OMPA. \ 
 Trym's Rating: :star: :star: :star: :star: :star: \
 More information can be found [here](https://www.oktoberfestoslo.com/)
 
