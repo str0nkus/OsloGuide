@@ -1,5 +1,6 @@
 <!-- Version 1.0  -->
-# Welcome to Trym's Immaculate Compendium of Things to do in Oslo!
+# Welcome to Trym's Compendium of Things to do in Oslo!
+![Byvåpen](https://imgur.com/a/CakD3Oo)
 ## Table of contents
   - [Introduction](#introduction)
   - [Things to See](#things-to-see)
