@@ -64,7 +64,7 @@ Trym's Rating: :star: :star: :star: :star: :star: \
 [Shawarma House Google Maps](https://maps.app.goo.gl/gNDEFobwxCSy4JXq8)
 
 ##### Casa Bella
-Ever had cheese in your kebabs, neither did I, great to visit after a long night of drænks. No website or menu available online, soz \
+Ever had cheese in your kebabs, neither did I, great to visit after a long night of drænks. \
 Trym's Rating: :star: :star: :star: :star: \
 [Casa Bella Google Maps](https://maps.app.goo.gl/4ZdndKvohR4QBnTm9)
 
