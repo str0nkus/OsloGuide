@@ -105,5 +105,10 @@ Easily one of the best places to go for a swim during summer. :swimmer: \
 Public Transport: Take the 30-bus to Kongsgården. \
 [Bygdøy Sjøbad Google Maps](https://maps.app.goo.gl/7PGijUeMRsxQMhmTA)
 
+##### Vesletjern
+Great place for a night-time swim, can recommend after a couple of beers! :swimmer: \
+Public Transport: Metro Line 4 or 5 to Kalbakken and walk the rest. \
+[Vesletjern Google Maps](https://maps.app.goo.gl/5mBQVtDChPUPTHo28)
+
 
 ## Various Stuff
