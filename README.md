@@ -29,7 +29,7 @@
 
 ## Introduction
 The goal of this article is to give you some insight in how you can explore Oslo to the best of your contents. \
-Here are some stuff you might take some intrest in: \
+Here are some stuff you might take some intrest in:
 * [Tripadvisor - Things to do in Oslo](https://www.tripadvisor.com/Attractions-g190479-Activities-Oslo_Eastern_Norway.html)
 * [VisitNorway - Free things to do in Oslo](https://www.visitnorway.com/places-to-go/eastern-norway/oslo/free-things-to-do/)
 
@@ -41,7 +41,7 @@ Here are some stuff you might take some intrest in: \
 
 ###
 ### Places to Eat
-This list contains tried and tested places to eat, each resturant/foodtruck/kebabplace or any eatery you can think of will include a personal rating of the repository owner - maybe contributors at a later time :wink: \
+This list contains tried and tested places to eat, each resturant/foodtruck/kebabplace or any eatery you can think of will include a personal rating of the repository owner - maybe contributors at a later time :wink:
 #### Resturants
 ##### Koie Ramen
 Straight up one of the best places to get Tonkotsu Ramen, check them out [here](https://koieramen.no/) \
