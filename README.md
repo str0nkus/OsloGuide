@@ -20,6 +20,7 @@
   - [Places to Drink Coffee](#places-to-drink-coffee)
   - [Activities](#activities)
     - [Seasonal](#seasonal)
+      - [Oktoberfest](#oktoberfest)
   - [Hikes](#hikes)
     - [Røverkollen](#røverkollen)
     - [Øyungen](#øyungen)
@@ -73,6 +74,10 @@ Trym's Rating: :star: :star: :star: :star: \
 ### Activities
 
 #### Seasonal
+##### Oktoberfest
+Drink Beer, dance on the tables to tune of OMPA \ 
+Trym's Rating: :star: :star: :star: :star: :star: \
+More information can be found [here](https://www.oktoberfestoslo.com/)
 
 ### Hikes
 ##### Røverkollen
