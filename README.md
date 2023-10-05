@@ -20,12 +20,30 @@ Here are some stuff you might take som intrest in:
 
 ## Things to See
 
+###
+
 ## Things to Do
+
+###
 ## Places to Eat
+
 ### Koie Ramen
 
 ## Places to Drink Beer
+
+###
+
 ## Activities
+
+###
+
 ## Hikes
+
+###
+
 ## Hidden Pearls
+
+###
 ## Various Stuff
+
+### 
