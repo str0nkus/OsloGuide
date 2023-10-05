@@ -30,10 +30,12 @@ Here are some stuff you might take som intrest in:
 
 ### Koie Ramen
 Straight up one of the best places to get Tonkotsu Ramen, check them out [here](https://koieramen.no/) \
+Rating: :star: :star: :star: :star: :star: \
 [Koie Ramen Google Maps](https://maps.app.goo.gl/hUtsCwYi1tgWcT9d9)
 
 ### Lofthus Samvirkelag
 One of the best pizzas I've ever tasted close to Alexander Kjellands Plass, you can find their menu [here](https://www.lofthussamvirkelag.no/) \
+Rating: :star: :star: :star: :star: :star: \
 [Lofthus Samvirkelag Google Maps](https://maps.app.goo.gl/98BPhhYMqSeqGWSV7)
 
 ## Places to Drink Beer
