@@ -1,5 +1,5 @@
 <!-- Version 1.0  -->
-# Welcome to Trym's Compendium of Things to do in Oslo!
+# Trym's Compendium of Things to do in Oslo!
 <p align="center">
   <img src="https://i.imgur.com/Gi818UP.png" alt="Byvåpen"/>
 </p>
