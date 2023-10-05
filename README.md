@@ -13,6 +13,7 @@
       - [Shawarma House](#shawarma-house)
       - [Casa Bella](#casa-bella)
   - [Places to Drink Beer](#places-to-drink-beer)
+  - [Places to Drink Coffee](#places-to-drink-coffee)
   - [Activities](#activities)
     - [Seasonal](#seasonal)
   - [Hikes](#hikes)
@@ -64,6 +65,7 @@ Trym's Rating: :star: :star: :star: :star: \
 
 ### Places to Drink Beer
 
+### Places to Drink Coffee
 ### Activities
 
 #### Seasonal
