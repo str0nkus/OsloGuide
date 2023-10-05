@@ -18,6 +18,7 @@
   - [Hikes](#hikes)
     - [Røverkollen](#røverkollen)
     - [Øyungen](#øyungen)
+    - [Elvelangs](#elvelangs)
   - [Hidden Pearls](#hidden-pearls)
   - [Various Stuff](#various-stuff)
 
@@ -85,6 +86,7 @@ About 2 hour walk, awesome walk straight through Oslo, I recommend starting at t
 Class: Easy :walking: \
 Recommended Starting Place: Kjelsås/Frysja (Take the bus (34) or the tram (11 | 12) to Kjelsås)
 You can find more info [here](https://ut.no/turforslag/1112156861/elvelangs-akerselva-fra-gullhaug-bru-til-friluftshuset)
+
 ### Hidden Pearls
 
 ### Various Stuff
