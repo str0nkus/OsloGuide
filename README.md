@@ -25,7 +25,7 @@
     - [Øyungen](#øyungen)
     - [Elvelangs](#elvelangs)
   - [Hidden Pearls](#hidden-pearls)
-    - [Bygdøt Sjøbad](#bygdøy-sjøbad)
+    - [Bygdøy Sjøbad](#bygdøy-sjøbad)
   - [Various Stuff](#various-stuff)
 
 ## Introduction
