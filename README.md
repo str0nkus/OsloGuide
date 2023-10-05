@@ -17,6 +17,7 @@
     - [Seasonal](#seasonal)
   - [Hikes](#hikes)
     - [Røverkollen](#røverkollen)
+    - [Øyungen](#øyungen)
   - [Hidden Pearls](#hidden-pearls)
   - [Various Stuff](#various-stuff)
 
@@ -69,9 +70,15 @@ Trym's Rating: :star: :star: :star: :star: \
 ### Hikes
 ##### Røverkollen
 About 2-4 hour round trip, great view and a nice brisk uphill walk. \
-Class: Easy - Medium
-Recommended Start place: Ammerud T-bane (You can follow the river almost all the way up)
+Class: Easy - Medium \
+Recommended Start place: Ammerud T-bane (You can follow the river almost all the way up) \
 You can find more info [here](https://ut.no/turforslag/119726041/rundtur-rverkollen)
+
+##### Øyungen
+About 1-2 hour round trip, beautiful both during summer and winter, mostly uphill (Walking & Ski) \
+Class: Easy \
+Recommended Start Place: Skar (Bus 51 through Maridalen - go off on the last stop) \
+You can find more info [here](https://ut.no/turforslag/115367/med-ungene-til-yungen)
 ### Hidden Pearls
 
 ### Various Stuff
