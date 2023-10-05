@@ -20,6 +20,7 @@
   - [Activities](#activities)
     - [Seasonal](#seasonal)
       - [Oktoberfest](#oktoberfest)
+      - [Engangsgrill i parken](#engangsgrill-i-parken)
   - [Hikes](#hikes)
     - [Røverkollen](#røverkollen)
     - [Øyungen](#øyungen)
@@ -74,6 +75,10 @@ Trym's Rating: :star: :star: :star: :star: \
 Drink Beer, dance on the tables to tune of OMPA. \
 Trym's Rating: :star: :star: :star: :star: :star: \
 More information can be found [here](https://www.oktoberfestoslo.com/)
+
+##### Engangsgrill i parken
+Grilling is a huge part of summer, bring your engangsgrill! \
+Recommended Parks: [Brikelunden](https://maps.app.goo.gl/S9vwe36feeBV8NKc6), [Iladalen](https://maps.app.goo.gl/oCzBEEA7AyxPewHz6), [St.Hanshaugen](https://maps.app.goo.gl/M5vY12bb2HPt7cD27), [Sofienbergsparken](https://maps.app.goo.gl/3HigHj9TQJhveoB86), [Tøyenparken](https://maps.app.goo.gl/QEDkxs5wCgUDaQ3e8) and [Torshovdalen](https://maps.app.goo.gl/fVfkTsjmABHH69iy9)
 
 ## Hikes
 ##### Røverkollen
