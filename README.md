@@ -16,6 +16,7 @@
   - [Activities](#activities)
     - [Seasonal](#seasonal)
   - [Hikes](#hikes)
+    - [Røverkollen](#røverkollen)
   - [Hidden Pearls](#hidden-pearls)
   - [Various Stuff](#various-stuff)
 
@@ -66,7 +67,11 @@ Trym's Rating: :star: :star: :star: :star: \
 #### Seasonal
 
 ### Hikes
-
+##### Røverkollen
+About 2-4 hour round trip, great view and a nice brisk uphill walk. \
+Class: Easy - Medium
+Recommended Start place: Ammerud T-bane (You can follow the river almost all the way up)
+You can find more info [here](https://ut.no/turforslag/119726041/rundtur-rverkollen)
 ### Hidden Pearls
 
 ### Various Stuff
