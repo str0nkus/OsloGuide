@@ -6,9 +6,8 @@
 
 ## Table of contents
   - [Introduction](#introduction)
-  - [Things to See](#things-to-see)
-  - [Things to Do](#things-to-do)
-  - [Places to Eat](#places-to-eat)
+  - [Stuff to do](#stuff-to-do)
+  - [Places to eat](#places-to-eat)
     - [Resturants](#resturants)
       - [Koie Ramen](#koie-ramen)
       - [Lofthus Samvirkelag](#lofthus-samvirkelag)
@@ -34,14 +33,10 @@ Here are some stuff you might take some intrest in:
 * [Tripadvisor - Things to do in Oslo](https://www.tripadvisor.com/Attractions-g190479-Activities-Oslo_Eastern_Norway.html)
 * [VisitNorway - Free things to do in Oslo](https://www.visitnorway.com/places-to-go/eastern-norway/oslo/free-things-to-do/)
 
-### Things to See
-
-####
-
-### Things to Do
+## Stuff to do!
 
 ###
-### Places to Eat
+## Places to eat
 This list contains tried and tested places to eat, each resturant/foodtruck/kebabplace or any eatery you can think of will include a personal rating of the repository owner - maybe contributors at a later time :wink:
 #### Resturants
 ##### Koie Ramen
@@ -68,10 +63,10 @@ Ever had cheese in your kebabs, neither did I, great to visit after a long night
 Trym's Rating: :star: :star: :star: :star: \
 [Casa Bella Google Maps](https://maps.app.goo.gl/4ZdndKvohR4QBnTm9)
 
-### Places to Drink Beer
+## Places to Drink Beer
 
-### Places to Drink Coffee
-### Activities
+## Places to Drink Coffee
+## Activities
 
 #### Seasonal
 ##### Oktoberfest
@@ -79,7 +74,7 @@ Drink Beer, dance on the tables to tune of OMPA. \
 Trym's Rating: :star: :star: :star: :star: :star: \
 More information can be found [here](https://www.oktoberfestoslo.com/)
 
-### Hikes
+## Hikes
 ##### Røverkollen
 About 2-4 hour round trip, great view and a nice brisk uphill walk. \
 Class: Easy - Medium :walking: \
@@ -98,6 +93,6 @@ Class: Easy :walking: \
 Starting Place: Kjelsås/Frysja (Take the bus (34) or the tram (11 | 12) to Kjelsås)
 You can find more info [here](https://ut.no/turforslag/1112156861/elvelangs-akerselva-fra-gullhaug-bru-til-friluftshuset)
 
-### Hidden Pearls
+## Hidden Pearls
 
-### Various Stuff
+## Various Stuff
