@@ -18,6 +18,9 @@
   - [Places to Drink Coffee](#places-to-drink-coffee)
   - [Stuff to do](#stuff-to-do)
     - [Activities](#activities)
+      - [All Arounder](#all-arounder)
+        - [Minigolf at Oslo Camping](#minigolf-at-oslo-camping)
+        - [Bowling at Oslo Bar & Bowling](#bowling-at-oslo-bar--bowling)
       - [Seasonal](#seasonal)
         - [Oktoberfest](#oktoberfest)
         - [Engangsgrill i parken](#engangsgrill-i-parken)
@@ -65,11 +68,26 @@ Trym's Rating: :star: :star: :star: :star: \
 
 ## Places to Drink Beer
 
+
 ## Places to Drink Coffee
+
 ## Stuff to do!
+Lot's of stuff to do, categorized by activities, this could change.
+
 ### Activities
 Here comes a list of cool activities.
-#### All-Year Stuff
+
+#### All Arounder
+
+##### Minigolf at Oslo Camping
+Ever wanted to play minigolf inside, while drinking beer, look no further! \
+Trym's Rating: :star: :star: :star: :star: \
+[Oslo Camping Google Maps](https://maps.app.goo.gl/whVbCKjQnfcrp38UA)
+
+##### Bowling at Oslo Bar & Bowling
+Bowling is fun for everyone! And they serve San Miguel in chilled glasses \
+Trym's Rating: :star: :star: :star: :star: :star:
+[Oslo Bar & Bowling Google Maps](https://maps.app.goo.gl/goWtfB3p9KFYz1wq7)
 
 #### Seasonal
 ##### Oktoberfest
