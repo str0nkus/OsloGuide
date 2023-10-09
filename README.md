@@ -6,7 +6,6 @@
 
 ## Table of contents
   - [Introduction](#introduction)
-  - [Stuff to do](#stuff-to-do)
   - [Places to eat](#places-to-eat)
     - [Resturants](#resturants)
       - [Koie Ramen](#koie-ramen)
@@ -17,10 +16,11 @@
       - [Casa Bella](#casa-bella)
   - [Places to Drink Beer](#places-to-drink-beer)
   - [Places to Drink Coffee](#places-to-drink-coffee)
-  - [Activities](#activities)
-    - [Seasonal](#seasonal)
-      - [Oktoberfest](#oktoberfest)
-      - [Engangsgrill i parken](#engangsgrill-i-parken)
+  - [Stuff to do](#stuff-to-do)
+    - [Activities](#activities)
+      - [Seasonal](#seasonal)
+        - [Oktoberfest](#oktoberfest)
+        - [Engangsgrill i parken](#engangsgrill-i-parken)
   - [Hikes](#hikes)
     - [Røverkollen](#røverkollen)
     - [Øyungen](#øyungen)
@@ -34,8 +34,6 @@ The goal of this article is to give you some insight in how you can explore Oslo
 Here are some stuff you might take some intrest in:
 * [Tripadvisor - Things to do in Oslo](https://www.tripadvisor.com/Attractions-g190479-Activities-Oslo_Eastern_Norway.html)
 * [VisitNorway - Free things to do in Oslo](https://www.visitnorway.com/places-to-go/eastern-norway/oslo/free-things-to-do/)
-
-## Stuff to do!
 
 ###
 ## Places to eat
@@ -68,7 +66,10 @@ Trym's Rating: :star: :star: :star: :star: \
 ## Places to Drink Beer
 
 ## Places to Drink Coffee
-## Activities
+## Stuff to do!
+### Activities
+Here comes a list of cool activities.
+#### All-Year Stuff
 
 #### Seasonal
 ##### Oktoberfest
