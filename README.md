@@ -86,7 +86,7 @@ Trym's Rating: :star: :star: :star: :star: \
 
 ##### Bowling at Oslo Bar & Bowling
 Bowling is fun for everyone! And they serve San Miguel in chilled glasses \
-Trym's Rating: :star: :star: :star: :star: :star:
+Trym's Rating: :star: :star: :star: :star: :star: \
 [Oslo Bar & Bowling Google Maps](https://maps.app.goo.gl/goWtfB3p9KFYz1wq7)
 
 #### Seasonal
