@@ -89,7 +89,18 @@ Bowling is fun for everyone! And they serve San Miguel in chilled glasses \
 Trym's Rating: :star: :star: :star: :star: :star: \
 [Oslo Bar & Bowling Google Maps](https://maps.app.goo.gl/goWtfB3p9KFYz1wq7)
 
+##### Oslo Reptilpark
+Do you like slippery snakes og slimey frogs, visit [Oslo Reptilpark](https://www.reptilpark.no/)! \
+Trym's Rating: :star: :star: :star: :star: \
+[Oslo Reptilpark Google Maps](https://maps.app.goo.gl/gBPLN2agPaa7o7En7)
+
+##### Akershus Festning
+Visit Akershus Festning (Fortress) by Aker Brygge, take a stroll through it and enjoy the view \
+Trym's Rating: :star: :star: :star: :star: :star: \
+[Festningen Google Maps](https://maps.app.goo.gl/GeDDYkpKGT6GNPeJA) 
+
 #### Seasonal
+
 ##### Oktoberfest
 Drink Beer, dance on the tables to tune of OMPA. \
 Trym's Rating: :star: :star: :star: :star: :star: \
