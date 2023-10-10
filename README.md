@@ -16,6 +16,7 @@
       - [Casa Bella](#casa-bella)
   - [Places to Drink Beer](#places-to-drink-beer)
   - [Places to Drink Coffee](#places-to-drink-coffee)
+    - [Hønselovisa Hus](#hønselovisa-hus)
   - [Stuff to do](#stuff-to-do)
     - [Activities](#activities)
       - [All Arounder](#all-arounder)
@@ -69,15 +70,23 @@ Trym's Rating: :star: :star: :star: :star: \
 [Casa Bella Google Maps](https://maps.app.goo.gl/4ZdndKvohR4QBnTm9)
 
 ## Places to Drink Beer
-
+I assume you enjoy beer and maybe some casual drinks, look no further. This list will be packed soon.
 
 ## Places to Drink Coffee
+I guess you might like coffee or tea, list is to be filled soon.
+
+##### Hønselovisa Hus
+A cafe situated at the top of Hønselovisa, serving coffe and cakes by Akerselva! \
+Trym's Rating: :star: :star: :star: :star: \
+[Hønselovisa Hus Google Maps](https://maps.app.goo.gl/oPyqujFAmsbs43Uo6)
 
 ## Stuff to do!
-Lot's of stuff to do, categorized by activities, this could change.
+This is a list of activities and stuff I recommend to do while you are in town, both for tourists and for people unknown to the city. \
+There is a lot to do, a lot to see and a lot to take in! \
+I hope you find this list intriguing and exciting, enjoy Oslo!
 
 ### Activities
-Here comes a list of cool activities.
+Here is the beginning of a list of activities to do in Oslo.
 
 #### All Arounder
 
