@@ -21,6 +21,8 @@
       - [All Arounder](#all-arounder)
         - [Minigolf at Oslo Camping](#minigolf-at-oslo-camping)
         - [Bowling at Oslo Bar & Bowling](#bowling-at-oslo-bar--bowling)
+        - [Oslo Reptilpark](#oslo-reptilpark)
+        - [Akershus Festning](#akershus-festning)
       - [Seasonal](#seasonal)
         - [Oktoberfest](#oktoberfest)
         - [Engangsgrill i parken](#engangsgrill-i-parken)
