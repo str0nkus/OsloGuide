@@ -33,6 +33,7 @@
     - [Elvelangs](#elvelangs)
   - [Hidden Pearls](#hidden-pearls)
     - [Bygdøy Sjøbad](#bygdøy-sjøbad)
+    - [Vestletjern](#vesletjern)
   - [Various Stuff](#various-stuff)
 
 ## Introduction
