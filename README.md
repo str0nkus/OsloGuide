@@ -24,6 +24,7 @@
         - [Bowling at Oslo Bar & Bowling](#bowling-at-oslo-bar--bowling)
         - [Oslo Reptilpark](#oslo-reptilpark)
         - [Akershus Festning](#akershus-festning)
+        - [Megazone](#megazone)
       - [Seasonal](#seasonal)
         - [Oktoberfest](#oktoberfest)
         - [Engangsgrill i parken](#engangsgrill-i-parken)
@@ -110,6 +111,11 @@ Trym's Rating: :star: :star: :star: :star: \
 Visit Akershus Festning (Fortress) by Aker Brygge, take a stroll through it and enjoy the view \
 Trym's Rating: :star: :star: :star: :star: :star: \
 [Festningen Google Maps](https://maps.app.goo.gl/GeDDYkpKGT6GNPeJA) 
+
+##### MegaZone
+Visit Megazone to play either Lazertag or Paintball \
+Trym's Rating: :star: :star: :star: :star: \
+[Megazone](https://maps.app.goo.gl/jRPNfQFDcYnRAFKf8)
 
 #### Seasonal
 
