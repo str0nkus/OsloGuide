@@ -10,7 +10,6 @@
     - [Resturants](#resturants)
       - [Koie Ramen](#koie-ramen)
       - [Lofthus Samvirkelag](#lofthus-samvirkelag)
-    - [Food Trucks](#food-trucks)
     - [Kebabs](#kebabs)
       - [Shawarma House](#shawarma-house)
       - [Casa Bella](#casa-bella)
