@@ -57,8 +57,6 @@ One of the best pizzas I've ever tasted close to Alexander Kiellands Plass, you 
 Trym's Rating: :star: :star: :star: :star: :star: \
 [Lofthus Samvirkelag Google Maps](https://maps.app.goo.gl/98BPhhYMqSeqGWSV7)
 
-#### Food Trucks
-
 
 #### Kebabs
 ##### Shawarma House
