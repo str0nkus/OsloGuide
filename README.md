@@ -10,6 +10,7 @@
     - [Resturants](#resturants)
       - [Koie Ramen](#koie-ramen)
       - [Lofthus Samvirkelag](#lofthus-samvirkelag)
+      - [Noah's Ark](#noahs-ark)
     - [Kebabs](#kebabs)
       - [Shawarma House](#shawarma-house)
       - [Casa Bella](#casa-bella)
@@ -56,6 +57,11 @@ Trym's Rating: :star: :star: :star: :star: :star: \
 One of the best pizzas I've ever tasted close to Alexander Kiellands Plass, you can find their menu [here](https://www.lofthussamvirkelag.no/) \
 Trym's Rating: :star: :star: :star: :star: :star: \
 [Lofthus Samvirkelag Google Maps](https://maps.app.goo.gl/98BPhhYMqSeqGWSV7)
+
+##### Noah's Ark
+Lovley turkish meals at the heart of Grünerløkka! \
+Trym's Rating: :star: :star: :star: :star: :star: \
+[Noah's Ark Google Maps](https://maps.app.goo.gl/oJTYatTKGtdPcA8T7)
 
 
 #### Kebabs
