@@ -29,6 +29,7 @@
       - [Seasonal](#seasonal)
         - [Oktoberfest](#oktoberfest)
         - [Engangsgrill i parken](#engangsgrill-i-parken)
+        - [Ski/Snowboard at Tryvann](#skisnowboard-at-tryvann)
   - [Hikes](#hikes)
     - [Røverkollen](#røverkollen)
     - [Øyungen](#øyungen)
@@ -136,6 +137,12 @@ More information can be found [here](https://www.oktoberfestoslo.com/)
 ##### Engangsgrill i parken
 Grilling is a huge part of summer, bring your engangsgrill! \
 Recommended Parks: [Brikelunden](https://maps.app.goo.gl/S9vwe36feeBV8NKc6), [Iladalen](https://maps.app.goo.gl/oCzBEEA7AyxPewHz6), [St.Hanshaugen](https://maps.app.goo.gl/M5vY12bb2HPt7cD27), [Sofienbergsparken](https://maps.app.goo.gl/3HigHj9TQJhveoB86), [Tøyenparken](https://maps.app.goo.gl/QEDkxs5wCgUDaQ3e8) and [Torshovdalen](https://maps.app.goo.gl/fVfkTsjmABHH69iy9)
+
+##### Ski/Snowboard at Tryvann
+Want to ride :snowboarder: ? - Try [Tryvann](https://skimore.no/oslo/) \
+Trym's Rating: :star: :star: :star: :star: \
+Info: Take Line 1 towards frogneseteren \
+[Tryvann Google Maps](https://maps.app.goo.gl/Q1NxAZwRFKc24nSh8)
 
 ## Hikes
 ##### Røverkollen
