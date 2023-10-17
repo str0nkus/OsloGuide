@@ -19,6 +19,7 @@
   - [Stuff to do](#stuff-to-do)
     - [Activities](#activities)
       - [All Arounder](#all-arounder)
+        - [Clubbing at SG26](#clubbing-at-sg26)
         - [Minigolf at Oslo Camping](#minigolf-at-oslo-camping)
         - [Bowling at Oslo Bar & Bowling](#bowling-at-oslo-bar--bowling)
         - [Oslo Reptilpark](#oslo-reptilpark)
@@ -88,6 +89,11 @@ I hope you find this list intriguing and exciting, enjoy Oslo!
 Here is the beginning of a list of activities to do in Oslo.
 
 #### All Arounder
+
+##### Clubbing at SG26
+Do you like to party? - Boilerroom [@SG26](https://www.storgata26.no/) \
+Trym's Rating: :star: :star: :star: :star: :star: \
+[SG26 Google Maps](https://maps.app.goo.gl/YQTss7RnUfScSvPQA)
 
 ##### Minigolf at Oslo Camping
 Ever wanted to play minigolf inside, while drinking beer, look no further! \
