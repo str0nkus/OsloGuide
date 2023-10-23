@@ -11,12 +11,14 @@
       - [Koie Ramen](#koie-ramen)
       - [Lofthus Samvirkelag](#lofthus-samvirkelag)
       - [Noah's Ark](#noahs-ark)
+      - [Stop & Go](#stop--go)
     - [Kebabs](#kebabs)
       - [Shawarma House](#shawarma-house)
       - [Casa Bella](#casa-bella)
   - [Places to Drink Beer](#places-to-drink-beer)
   - [Places to Drink Coffee](#places-to-drink-coffee)
     - [Hønselovisa Hus](#hønselovisa-hus)
+    - [Kafe Steinbra](#kafe-steinbra)
   - [Stuff to do](#stuff-to-do)
     - [Activities](#activities)
       - [All Arounder](#all-arounder)
@@ -64,6 +66,11 @@ Lovley turkish meals at the heart of Grünerløkka! \
 Trym's Rating: :star: :star: :star: :star: :star: \
 [Noah's Ark Google Maps](https://maps.app.goo.gl/oJTYatTKGtdPcA8T7)
 
+##### Stop & Go
+Lovley Asian Cusine at Kalbakken, I recommend the Spicy Noodles \
+Trym's Rating: :star: :star: :star: :star: :star:
+[Stop & Go Google Maps](https://maps.app.goo.gl/MQoX4UhpsZ4VhVKb7)
+
 
 #### Kebabs
 ##### Shawarma House
@@ -86,6 +93,11 @@ I guess you might like coffee or tea, list is to be filled soon.
 A cafe situated at the top of Hønselovisa, serving coffe and cakes by Akerselva! \
 Trym's Rating: :star: :star: :star: :star: \
 [Hønselovisa Hus Google Maps](https://maps.app.goo.gl/oPyqujFAmsbs43Uo6)
+
+##### Kafe Steinbra
+Located at Grorud, very laidback, good cake! \
+Trym's Rating: :star: :star: :star: :star: :star: \
+[Kafe Steinbra Google Maps](https://maps.app.goo.gl/ZKs4bCauLeMXNVtx9)
 
 ## Stuff to do!
 This is a list of activities and stuff I recommend to do while you are in town, both for tourists and for people unknown to the city. \
